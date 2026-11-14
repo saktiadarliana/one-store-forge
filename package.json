@@ -1,0 +1,1 @@
+{"description":"A GitHub-compatible git forge in one process: git smart HTTP, REST v3, GraphQL v4 and MCP from an in-memory store.","engines":{"node":">=22"},"license":"MIT","name":"one-store-forge","scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
